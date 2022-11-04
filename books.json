@@ -1,0 +1,5 @@
+{"books": [
+{"Title":"Dune","Description":"It tells the story of young Paul Atreides, whose family accepts the stewardship of the planet Arrakis. ","Price":10.5,"Author":"Frank Herbert","Genre":"Sci Fi"},
+{"Title":"Foundation","Description":" in the waning days of a future Galactic Empire, the mathematician Hari Seldon spends his life developing a theory of psychohistory, a new and effective mathematics of sociology. ","Price":19.99,"Author":"Isaac Asimov","Genre":"Sci Fi"}
+]
+}
